@@ -1,2 +1,2 @@
 # Tribute_Page_FCC
-First front-end project from FreeCodeCamp using only HTML and CSS.
+Completed 7/2017. First front-end project ever from FreeCodeCamp using only HTML and CSS.

@@ -1,0 +1,43 @@
+body {
+  background-color: black;
+  background: url(http://i21.photobucket.com/albums/b287/N00l3/bg.jpg);
+}
+
+.text_position {
+  display: block;
+  top: 37%;
+  left: 15%;
+}
+
+#Quote {
+  text-align: center;
+  Color: Yellow;
+}
+
+#HeaderImage {
+  width: 100%;
+}
+
+#TextField {
+  text-align: center;
+  position: relative;
+}
+
+#RealText {
+  background: url("https://i.imgbox.com/DHSVtESg.png");
+  position: absolute;
+  text-align: center;
+  padding: 20px;
+}
+
+.context {
+  text-align: left;
+}
+
+p {
+  font-size: 17px;
+}
+
+ul {
+  font-size: 17px;
+}
